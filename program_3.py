@@ -1,6 +1,6 @@
 #By: Sabria Fafach
 #Date: Febuary 7, 2025
-#Name: program_2.py
+#Name: program_3.py
 
 #Program #3: Shipping Charges
 weight=float(input("Enter the weight of your shipment in lbs:"))
