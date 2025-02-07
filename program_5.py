@@ -2,6 +2,7 @@
 #Date: Febuary 7, 2025
 #Name: program_5.py
 
+
 #This portion of the code finds the hot dog cost
 hot_dog=input("Enter a kind of hot dog (Hot Dog or Chili Dog):")
 if hot_dog=="Hot Dog":
